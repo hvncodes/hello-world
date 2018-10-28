@@ -1,0 +1,21 @@
+Github Lab: Complete Github Tutorial and Watch Github for Noobs
+
+  * What is github?
+  
+Github is hosting service for version control using Git
+
+  * How is git different than github?
+  
+Git is that version control system
+
+  * What is a branch?
+  
+A branch is a seperate copy of the original code at that moment in time, to allow for tinkering without affecting the original
+
+  * What does merging a branch do?
+  
+Merging a branch back into the master branch would be taking the editted copy and making those edits be reflected into the original
+
+  * What is a pull request?
+  
+A request to review and pull your edits (from your branch) into someone else's branch
